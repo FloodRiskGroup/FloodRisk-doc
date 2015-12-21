@@ -1,0 +1,22 @@
+Code;Description;Valstr_Euro;ValCon_Euro;DamageStr_Euro;DamageCon_Euro
+11100;Continuous Urban Fabric (S.L. > 80%);0;0;0;0
+11210;Discontinuous Dense Urban Fabric (S.L. : 50% -  80%);7879600;3939800;2808600;1874200
+11220;Discontinuous Medium Density Urban Fabric (S.L. : 30% - 50%);203191000;101595500;65918700;40930000
+11230;Discontinuous Low Density Urban Fabric (S.L. : 10% - 30%);1614429100;807214600;653092600;440572100
+11240;Discontinuous Very Low Density Urban Fabric (S.L. < 10%);0;0;0;0
+11300;Isolated Structures;48236300;72354500;14859800;28146700
+12100;Industrial, commercial, public, military and private units;342799000;1199796600;59665400;556797500
+12210;Fast transit roads and associated land;95509900;3820500;0;0
+12220;Other roads and associated land;22413400;896600;0;0
+12230;Railways and associated land;0;0;0;0
+12300;Port areas;0;0;0;0
+12400;Airports;0;0;0;0
+13100;Mineral extraction and dump sites;0;0;0;0
+13300;Construction sites;0;15069000;0;8439700
+13400;Land without current use;0;0;0;0
+14100;Green urban areas;0;325500;0;216400
+14200;Sports and leisure facilities;0;0;0;0
+20000;Agricultural + Semi-natural areas + Wetlands;0;420000;0;274500
+30000;Forests;0;284600;0;208400
+40000;Wetlands;0;0;0;0
+50000;Water bodies;0;0;0;0
