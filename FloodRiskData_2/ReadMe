@@ -1,0 +1,11 @@
+This folder contains sample data for FloodRisk_2.
+- Exposure: contains exposure data
+- Scen0   : contains the hazard data for the current scenario
+- Scen1   : contains the hazard data for the scenario with mitigation measures
+
+both scenarios have hazard data for different return periods:
+- T= 25 years
+- T= 100 years
+- T= 500 years
+- T= 1000 years
+- T= 10000 years
