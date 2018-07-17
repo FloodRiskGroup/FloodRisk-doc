@@ -1,5 +1,8 @@
 # FloodRisk-doc
 This repository contains sample data to test the plugin FloodRisk
+# Folders
+- FlodRiskData : example input data for FloodRisk
+- FlodRiskData_2 : example input data for FloodRisk_2
 # Data
 The data consist of:
 - a digital elevation model (DEM) : DEM.tif
